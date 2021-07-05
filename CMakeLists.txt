@@ -4,4 +4,4 @@ project("Cpp Design Patterns" LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory(include)
+add_subdirectory(builder)
